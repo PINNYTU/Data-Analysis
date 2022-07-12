@@ -2,7 +2,9 @@
 
 
 This is a case study project to complete DataCamp professional certificate. I took approximately 48 hours to prepare the insights and reports. 
-The objective of this case study is to help the CEO of a travel insurance company understand more about their customers. The analysis is separated into 4 parts 
+The objective of this case study is to help the CEO of a travel insurance company understand more about their customers. 
+I import the data into DBeaver to clean/check/transform the data using PostgresSQL. Then I import it to tableau to compare the distribution between 2 groups of customers.
+The analysis is separated into 4 parts 
 
 ## 1. Profile/Demographics comparison between non customers and customers.
 <img width="1118" alt="Screen Shot 2022-07-12 at 1 11 54 PM" src="https://user-images.githubusercontent.com/41849266/178552463-9b8376e9-bb66-4553-b0a6-e9f080571653.png">
