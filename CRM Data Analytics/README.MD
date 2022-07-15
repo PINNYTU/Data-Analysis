@@ -93,6 +93,7 @@ Since Summer '22 release Data Manager page has a new look. To manage dataflows o
 Dataflow Name: Load Seed Bank Agencies
 
 Data Components
+<img width="523" alt="Screen Shot 2022-07-04 at 1 50 11 PM" src="https://user-images.githubusercontent.com/41849266/178762803-1fe6ff72-7920-4ea7-b178-a4afa71cfee0.png">
 
 Node Name	Description	Fields
 Load Account	Loads the Account object	
@@ -165,6 +166,8 @@ Click the Save button when complete. Click the X next to the new lens tab to clo
 
 Build a Seed Bank
 Mosaic has a local seed vendor that promised to donate seeds and advice for the Seed Bank. Mosaic has the vendor’s inventory file of donated seeds. Hadiqa manages the relationship with the vendor. On top of that, she’s Mosaic’s resident horticultural guru. She’ll help you with her product expertise as you build a seed bank in CRM Analytics. Hadiqa goes over the seed file with you during your consultation.
+<img width="1091" alt="Task 1" src="https://user-images.githubusercontent.com/41849266/178763084-590f3dcf-4401-40c2-b505-7f2f101c899c.png">
+<img width="1305" alt="Task 2" src="https://user-images.githubusercontent.com/41849266/178764423-7a218530-10cd-4589-a19f-958b933066ea.png">
 
 Partial listing of the seed inventory file
 
@@ -172,6 +175,8 @@ Hadiqa confirms that the data doesn’t have any glaring anomalies. However, the
 
 Calculate Acreage
 Seed donations are made in bulk, noting the number of seeds per pound. The value can be as low as 5 seeds per pound (for avocado seeds), or as high as 1,000,000 (for celery seeds).
+
+<img width="1688" alt="Visualization Task 2" src="https://user-images.githubusercontent.com/41849266/178764077-1ed0311b-a897-44c3-ba58-84d5221d172a.png">
 
 Hadiqa also tells you about the Spacing field, which documents seed spacing. This sounds a lot like the Acres field, and you ask her if they’re the same. She explains that the fields are related, but not the same. Spacing stores the amount of space, in square inches, that each seed needs to grow. In some regions, farmers don’t have as much land—some an acre or less. Mosaic will need to know if a farmer’s land can accommodate a certain number of seeds, especially if requests come in for multiple seed types. According to Hadiqa, the best way to figure this out is by knowing how many acres are required per pound of seeds.
 
@@ -234,6 +239,7 @@ Click the Focus button.
 Click the Save button, add the title Top 5 Crop Seeds and Mosaic for the App.
 
 Click the Save button when complete. Click the X next to the new lens tab to close.
+<img width="1714" alt="Visualization Task 1" src="https://user-images.githubusercontent.com/41849266/178764201-783d4dae-d8ba-4ac8-aaee-595dd2b2a25d.png">
 
 Control Who Sees What
 Mosaic is adding staff for the Seed Bank project, and Yasmine wants to limit visibility for those roles to just those regions they will manage.
@@ -327,6 +333,7 @@ Click the Save button, add the title Agency Temp Class and Mosaic as the App.
 Click the Save button when complete. Click the X next to the new lens tab to close.
 
 New Dataflow Name - Load Seed Bank w/Temperature Classification
+<img width="1734" alt="Task 4" src="https://user-images.githubusercontent.com/41849266/178764907-1777d591-7f03-4b06-892d-0f05a6efb91a.png">
 
 Data Components
 
@@ -373,6 +380,7 @@ Click the Save button, add the title Seed Bank Temp Class and Mosaic for the App
 Click the Save button when complete. Click the X next to the new lens tab to close.
 
 Diagnose and Troubleshoot an Unsuccessful Data Load
+<img width="1740" alt="Task 3" src="https://user-images.githubusercontent.com/41849266/178764952-ac8042be-658f-4af9-a9ce-fa45e23d6926.png">
 
 You’ve made great progress developing data loading processes, but you have a previously scheduled site visit with another client coming up and will be away for a week. While you’re away you call to check in. A relieved Danielle gets your call and tells you that she and Philip need your help with one of the dataload jobs.
 
